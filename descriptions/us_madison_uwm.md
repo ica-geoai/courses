@@ -12,17 +12,17 @@ This course is based on the 'Handbook of Geospatial Artificial Intelligence', wh
 
 ## Outline
 
-1.-3. Introduction to Geospatial Artificial Intelligence (GeoAI)
-4. GeoAI Methodological Foundations: Deep Neural Networks and Knowledge Graphs
-5. GeoAI for Spatial Image Processing
-6. Spatial Representation Learning in GeoAI
-7. Intelligent Spatial Prediction and Interpolation Methods
-8. Heterogeneity-Aware Deep Learning in Space: Performance and Fairness
-9. Explainability in GeoAI
-10. Spatial Cross-Validation for GeoAI Section
-11. GeoAI for the Digitization of Historical Maps
-14. GeoAI for Disaster Response
-17. GeoAI for Urban Sensing
+1.-3. Introduction to Geospatial Artificial Intelligence (GeoAI)  
+4. GeoAI Methodological Foundations: Deep Neural Networks and Knowledge Graphs  
+5. GeoAI for Spatial Image Processing  
+6. Spatial Representation Learning in GeoAI  
+7. Intelligent Spatial Prediction and Interpolation Methods  
+8. Heterogeneity-Aware Deep Learning in Space: Performance and Fairness  
+9. Explainability in GeoAI  
+10. Spatial Cross-Validation for GeoAI Section  
+11. GeoAI for the Digitization of Historical Maps  
+14. GeoAI for Disaster Response  
+17. GeoAI for Urban Sensing  
 
 ---
 
