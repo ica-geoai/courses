@@ -15,6 +15,7 @@
 | [GeoAI – Geographic Artificial Intelligence/](descriptions/us_gainesville_uf.md) | University of Florida | United States |
 | [Introduction to Geospatial Artificial Intelligence: The Remote Sensing and GeoAI Frontier](descriptions/us_logan_usu_1.md) | Utah State University | United States |
 | [Advanced Geospatial Artificial Intelligence](descriptions/us_logan_usu_2.md) | Utah State University | United States |
+| [GeoAI Seminar](descriptions/us_madison_uwm.md) | University of Wisconsin-Madison | United States |
 | [Analytical Methods and GeoAI in Geospatial Intelligence](descriptions/us_oldmain_psu_1.md) | Pennsylvania State University | United States |
 | [AI in Spatial Data Science](descriptions/us_oldmain_psu_2.md) | Pennsylvania State University | United States |
 | [GeoAI: Advanced GIS for Policy and Design](descriptions/us_pittsburgh_cmu.md) | Carnegie Mellon University | United States |
