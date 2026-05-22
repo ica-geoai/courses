@@ -4,6 +4,8 @@
 | [AI and Geodata Science](descriptions/de_dresden_htw.md) | HTW Dresden | Germany |
 | [GeoAI](descriptions/de_marburg_u.md) | University of Marburg | Germany |
 | [Principles of Spatial Data Mining and Machine Learning](descriptions/de_munich_tu.md) | TU Munich | Germany |
+| [GeoAI Platforms: Social Remote Sensing for Urban Monitoring Urban Intelligence](descriptions/de_muenster_u_1.md) | University of Münster | Germany |
+| [LLMs and GeoAIs](descriptions/de_muenster_u_2.md) | University of Münster | Germany |
 | [Machine Learning for Geospatial Sciences](descriptions/nl_twente_ut_1.md) | University of Twente | Netherlands |
 | [Advanced Machine Learning for Geospatial Sciences](descriptions/nl_twente_ut_2.md) | University of Twente | Netherlands |
 | [Data Science, Artificial Intelligence and Geographic Information Systems (GIS) for Environmental Sciences](descriptions/nl_wageningen_u.md) | Wageningen University | Netherlands |
