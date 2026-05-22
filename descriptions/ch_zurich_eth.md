@@ -16,6 +16,19 @@ This course will cover the following topics:
 - Hands-on programming exercises to work with raster and vector data (incl. common software libraries for image processing)
 - Improvement of map processing methods (e.g., conflation, template matching, artificial intelligence)
 
+## Lectures
+
+- A Brief Outline of Cartographic Research
+- Historical Map Processing
+- Feature Extraction
+- Deep Learning for Map Processing
+- Historical Cartography for Digital Humanities
+- Historical Maps – Evolution and Modern Relevance
+- Copyright and License for Cartographic Applications
+- Research at the Atlas of Switzerland & the Swiss World Atlas
+- Linking Directories with Historical Maps
+- Other Research Projects at the Chair of Cartography
+
 ## Prerequisites / Notice
 
 The concepts discussed in this course make use of the Python programming language.
@@ -24,4 +37,4 @@ Basic knowledge about GIS and cartography is required.
 
 ---
 
-https://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2026S&ansicht=KATALOGDATEN&lerneinheitId=198207&
+https://vvz.ethz.ch/Vorlesungsverzeichnis/lerneinheit.view?lang=en&semkez=2026S&ansicht=KATALOGDATEN&lerneinheitId=198207& + https://www.ika.ethz.ch/studium/mmcarto.pdf
