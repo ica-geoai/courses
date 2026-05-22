@@ -12,6 +12,7 @@
 | [GIS and GeoAI](descriptions/ro_bucharest_tu.md) | Technical University of Civil Engineering Bucharest | Romania |
 | [Geospatial Artificial Intelligence for Urban Planning](descriptions/se_lund_u.md) | Lund University | Sweden |
 | [Geospatial Artificial Intelligence (GeoAI)](descriptions/se_stockholm_kth.md) | KTH Royal Institute of Technology | Sweden |
+| [Research Topics in Cartography](descriptions/ch_zurich_eth.md) | ETH Zurich | Switzerland |
 | [Harnessing AI and Machine Learning for Geospatial Analysis](descriptions/udemy.md) | Udemy | - |
 | [Seminar of Spatial Data Science and GeoAI](descriptions/us_austin_ut.md) | University of Texas | United States |
 | [GeoAI – Geographic Artificial Intelligence/](descriptions/us_gainesville_uf.md) | University of Florida | United States |
