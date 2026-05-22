@@ -11,6 +11,7 @@
 | [Advanced Machine Learning for Geospatial Sciences](descriptions/nl_twente_ut_2.md) | University of Twente | Netherlands |
 | [Data Science, Artificial Intelligence and Geographic Information Systems (GIS) for Environmental Sciences](descriptions/nl_wageningen_u.md) | Wageningen University | Netherlands |
 | [GIS and GeoAI](descriptions/ro_bucharest_tu.md) | Technical University of Civil Engineering Bucharest | Romania |
+| [Geospatial Machine Learning](descriptions/sg_singapore_nu.md) | National University of Singapore | Singapore |
 | [Geospatial Artificial Intelligence for Urban Planning](descriptions/se_lund_u.md) | Lund University | Sweden |
 | [Geospatial Artificial Intelligence (GeoAI)](descriptions/se_stockholm_kth.md) | KTH Royal Institute of Technology | Sweden |
 | [Research Topics in Cartography](descriptions/ch_zurich_eth.md) | ETH Zurich | Switzerland |
