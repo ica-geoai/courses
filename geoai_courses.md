@@ -7,7 +7,7 @@
 | [Principles of Spatial Data Mining and Machine Learning](descriptions/de_munich_tu.md) | TU Munich | Germany |
 | [GeoAI Platforms: Social Remote Sensing for Urban Monitoring Urban Intelligence](descriptions/de_muenster_u_1.md) | University of Münster | Germany |
 | [LLMs and GeoAIs](descriptions/de_muenster_u_2.md) | University of Münster | Germany |
-| [Artificial Intelligence for the Earth: Geospatial Foundation Models](descriptions/it_milano_p.md) | Politecnico Milano | Italy |
+| [Artificial Intelligence for the Earth: Geospatial Foundation Models](descriptions/it_milano_p.md) | Politecnico di Milano | Italy |
 | [Machine Learning for Geospatial Sciences](descriptions/nl_twente_ut_1.md) | University of Twente | Netherlands |
 | [Advanced Machine Learning for Geospatial Sciences](descriptions/nl_twente_ut_2.md) | University of Twente | Netherlands |
 | [Data Science, Artificial Intelligence and Geographic Information Systems (GIS) for Environmental Sciences](descriptions/nl_wageningen_u.md) | Wageningen University | Netherlands |
@@ -19,7 +19,7 @@
 | [Harnessing AI and Machine Learning for Geospatial Analysis](descriptions/udemy.md) | Udemy | - |
 | [Seminar of Spatial Data Science and GeoAI](descriptions/us_austin_ut.md) | University of Texas | United States |
 | [Geographical Perspectives on AI](descriptions/buffalo_u.md) | University of Buffalo | United States |
-| [GeoAI – Geographic Artificial Intelligence/](descriptions/us_gainesville_uf.md) | University of Florida | United States |
+| [GeoAI – Geographic Artificial Intelligence](descriptions/us_gainesville_uf.md) | University of Florida | United States |
 | [Introduction to Geospatial Artificial Intelligence: The Remote Sensing and GeoAI Frontier](descriptions/us_logan_usu_1.md) | Utah State University | United States |
 | [Advanced Geospatial Artificial Intelligence](descriptions/us_logan_usu_2.md) | Utah State University | United States |
 | [GeoAI Seminar](descriptions/us_madison_uwm.md) | University of Wisconsin-Madison | United States |
