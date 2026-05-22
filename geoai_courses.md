@@ -1,6 +1,7 @@
 | Course | University | Country |
 |---|---|---|
 | [GeoAI and Machine Learning](descriptions/at_vienna_u.md) | University of Vienna | Austria |
+| [Geospatial Artificial Intelligence](descriptions/be_ghent_u.md) | University of Ghent | Belgium |
 | [AI and Geodata Science](descriptions/de_dresden_htw.md) | HTW Dresden | Germany |
 | [GeoAI](descriptions/de_marburg_u.md) | University of Marburg | Germany |
 | [Principles of Spatial Data Mining and Machine Learning](descriptions/de_munich_tu.md) | TU Munich | Germany |
