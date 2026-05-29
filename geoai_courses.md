@@ -19,7 +19,8 @@
 | [Research Topics in Cartography](descriptions/ch_zurich_eth.md) | ETH Zurich | Switzerland |
 | [Harnessing AI and Machine Learning for Geospatial Analysis](descriptions/udemy.md) | Udemy | - |
 | [Seminar of Spatial Data Science and GeoAI](descriptions/us_austin_ut.md) | University of Texas | United States |
-| [Geographical Perspectives on AI](descriptions/us_buffalo_u.md) | University of Buffalo | United States |
+| [Geographical Perspectives on AI](descriptions/us_buffalo_u.md) | University of Buffalo | United States | 
+| [GIS and Machine Learning](descriptions/us_buffalo_u_2.md) | University of Buffalo | United States | 
 | [GeoAI – Geographic Artificial Intelligence](descriptions/us_gainesville_uf.md) | University of Florida | United States |
 | [Introduction to Geospatial Artificial Intelligence: The Remote Sensing and GeoAI Frontier](descriptions/us_logan_usu_1.md) | Utah State University | United States |
 | [Advanced Geospatial Artificial Intelligence](descriptions/us_logan_usu_2.md) | Utah State University | United States |
@@ -27,4 +28,3 @@
 | [Analytical Methods and GeoAI in Geospatial Intelligence](descriptions/us_oldmain_psu_1.md) | Pennsylvania State University | United States |
 | [AI in Spatial Data Science](descriptions/us_oldmain_psu_2.md) | Pennsylvania State University | United States |
 | [GeoAI: Advanced GIS for Policy and Design](descriptions/us_pittsburgh_cmu.md) | Carnegie Mellon University | United States |
-
