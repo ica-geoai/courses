@@ -6,8 +6,9 @@ This course includes practical examples and provides a clear overview of how art
 
 Location and AI: The Basics is aimed specifically at business leaders and decision-makers in the EU. No prior experience of artificial intelligence or location data is required to take the course. The online course can be completed at your own pace, anywhere and anytime.
 
-## This course is for you if you:
+## Target audience
 
+This course is for you if you:
 - are in charge of data-driven management, the data economy, digitalisation or business development
 - want to find out what GeoAI is and how it can benefit your business
 - want to learn how to benefit from data, especially the combination of geospatial data and artificial intelligence (AI).
